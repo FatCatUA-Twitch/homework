@@ -7,6 +7,6 @@ body {
 }
 
 .container {
-    border: solid black 2px;
+    border: solid rgb(182, 91, 91) 2px;
     height: 200px;
 }
