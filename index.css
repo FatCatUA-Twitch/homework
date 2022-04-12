@@ -1,0 +1,12 @@
+body {
+    background-color: blue;
+}
+
+.kartoshka {
+    font-size: 30px;
+}
+
+.container {
+    border: solid black 2px;
+    height: 200px;
+}
